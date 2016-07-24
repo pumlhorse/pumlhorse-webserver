@@ -1,0 +1,27 @@
+{
+  "name": "pumlhorse-webserver",
+  "version": "0.1.0",
+  "description": "Web server using Pumlhorse scripts",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumlhorse/pumlhorse-webserver.git"
+  },
+  "keywords": [
+    "pumlhorse",
+    "webserver"
+  ],
+  "author": "Revelio <support@getrevelio.com> (https://www.getrevelio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pumlhorse/pumlhorse-webserver/issues"
+  },
+  "homepage": "https://github.com/pumlhorse/pumlhorse-webserver#readme",
+  "dependencies": {
+    "pumlhorse": "^1.1.0",
+    "underscore": "^1.8.3"
+  }
+}
